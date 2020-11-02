@@ -1,5 +1,3 @@
-<script>
-
 function page1suivant()
 {
   var question1 = document.getElementById('question-1');
@@ -239,5 +237,3 @@ function page1suivant()
 
 }
 
-
-</script>
