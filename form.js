@@ -1,14 +1,4 @@
 <script>
-/*
-
-$('.formulaire-inscription').submit(()=>{	
-//	setTimeout(()=>{
-  	$('.form-success-trigger').click();
-//  },1000);
-
-});
-
-*/
 
 function page1suivant()
 {
